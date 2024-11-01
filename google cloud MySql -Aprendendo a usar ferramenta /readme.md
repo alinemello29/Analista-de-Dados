@@ -3,6 +3,13 @@
 ## 📚 Sobre o Projeto
 Neste projeto, aprendi a utilizar o Google Cloud MySQL para armazenar dados de um projeto desenvolvido em Python no Google Colab. Este é um passo importante para entender como integrar aplicações com bancos de dados na nuvem.
 
+
+[Screen recording 2024-10-30 17.54.48.webm](https://github.com/user-attachments/assets/3b31ecc1-3f75-4f03-a288-794d83f9e061)
+
+
+![Screenshot 2024-10-30 17 54 32](https://github.com/user-attachments/assets/551797cc-84b7-487a-8b34-b72906509e27)
+
+
 ## 🚀 Tecnologias Utilizadas
 - **Google Cloud Platform** ☁️
 - **MySQL** 🐬
@@ -48,9 +55,3 @@ cursor.close()
 conn.close()
 🌟 Conclusão
 Este projeto me ajudou a entender como funciona a integração de aplicações Python com bancos de dados na nuvem. Continue explorando e aprendendo! 🚀
-
-
-[Screen recording 2024-10-30 17.54.48.webm](https://github.com/user-attachments/assets/3b31ecc1-3f75-4f03-a288-794d83f9e061)
-
-
-![Screenshot 2024-10-30 17 54 32](https://github.com/user-attachments/assets/551797cc-84b7-487a-8b34-b72906509e27)
