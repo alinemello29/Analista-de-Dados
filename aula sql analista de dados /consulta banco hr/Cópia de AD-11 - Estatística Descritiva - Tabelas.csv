@@ -1,0 +1,31 @@
+matricula,nome,cidade,estado,pais,idade,departamento,cargo,salario,escolaridade,nota
+1,Lucas,Atibaia,SP,Brasil,35,Compras,Gerente,25000,Superior,8
+2,Ana,São Paulo,SP,Brasil,29,Vendas,Coordenador,12000,Superior,6
+3,Luiza,Santos,SP,Brasil,38,Finanças,Gerente,28000,MBA,9
+4,Fernando,Atibaia,SP,Brasil,36,Marketing,Diretor,40000,Mestrado,7
+5,Sandra,Atibaia,SP,Brasil,28,Produção,Analista,23000,Superior,5
+6,Douglas,Bragança,SP,Brasil,29,Finanças,Analista,11000,Superior,9
+7,Eduardo,Extrema,MG,Brasil,30,Marketing,Gerente,12000,MBA,4
+8,Ester,Itapeva,MG,Brasil,29,Compras,Analista,10000,Superior,2
+9,Pedro,Extrema,MG,Brasil,30,Marketing,Analista,13000,Superior,1
+10,Maria,Extrema,MG,Brasil,40,Produção,Analista,12000,MBA,7
+,,,,,,,,,,
+,,                                   Distribuição de Frequenência para variavéis qualitativas,,,,,,,,
+,,Escolaridade,Freq Absoluta,Freq %,,Departamento,Freq Absoluta,Freq %,,
+,,MBA,3,30%,,Compras,2,20%,,
+,,Mestardo,1,10%,,Finanças,2,20%,,
+,,Superior ,6,60%,,Marketing ,3,30%,,
+,,Total,10,100%,,Produção,2,20%,,
+,,,,,,Vendas,1,10%,,
+,,,,,,Total,10,100%,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,                               Distribuição de Frequência para variavéis qualitativas ,,,,,,,,
+,,Notas,Freq Absoluta,Freq %,Freq Acumulada,Freq Acumulada %,,,,
+,,[00-02],1,10%,1,10%,,,,
+,,[02-04],1,10%,2,20%,,,,
+,,[04-06],2,20%,4,40%,,,,
+,,[04-08],3,30%,7,70%,,,,
+,,[08-10],3,30%,10,100%,,,,
+,,Total,10,100%,-,-,,,,
