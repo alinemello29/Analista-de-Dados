@@ -1,6 +1,3 @@
-
-
-Copiar
 # 📚 Aula de Subqueries e CTEs 📊
 
 Bem-vindo à aula sobre **Subqueries** e **Common Table Expressions (CTEs)**! Nesta aula, vamos explorar como utilizar essas técnicas poderosas em SQL para otimizar e estruturar suas consultas de banco de dados. 🚀
