@@ -7,3 +7,7 @@ Bem-vindo ao repositório do **Curso de Analista de Dados** oferecido pela **Sou
 ## Sobre o Curso
 
 Neste curso, você irá explorar os fundamentos da análise de dados, aprender a trabalhar com ferramentas modernas e desenvolver habilidades práticas que são altamente valorizadas no mercado de trabalho. 
+
+## Meu certificado de conclusão 
+
+![Image](https://github.com/user-attachments/assets/ef02c031-6084-4a74-8149-f672427fabc0)
